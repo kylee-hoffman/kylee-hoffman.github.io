@@ -6,4 +6,4 @@ I am a PhD student in Sociology and Demography and a Computational Social Scienc
 
 One of my current projects looks at air pollution exposure differentials among internal migrants in the US across racial and socioeconomic groups. Another project focuses on cohort imprinting effects in seasonal influenza mortality.
 
-I a BA in Geography and Data Science from the University of Washington in 2022.
+I earned my BA in Geography and Data Science from the University of Washington in 2022.
