@@ -1,4 +1,5 @@
-<a href="projects.md" title="Projects">Projects</a>
+<a href="https://github.com/kylee-hoffman/kylee-hoffman.io/projects.md">Projects</a>
+
 
 <img src="Kylee_hoffman_headshot.jpeg" alt="headshot" width="400"/>
 
