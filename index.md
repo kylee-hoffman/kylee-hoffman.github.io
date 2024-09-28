@@ -1,4 +1,4 @@
-<a href="projects.md">Projects</a>
+<a href="projects.md" title="Projects">Projects</a>
 
 <img src="Kylee_hoffman_headshot.jpeg" alt="headshot" width="400"/>
 
